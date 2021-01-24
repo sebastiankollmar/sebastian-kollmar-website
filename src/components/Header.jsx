@@ -6,12 +6,12 @@ function Header(props) {
         English: {
             title: "Sebastian Kollmar",
             description: "Self-employed business information scientist",
-            addon: "in the fields of software development, data science and statistics"
+            addon: "in the fields of software development, business intelligence and data science"
         },
         Deutsch: {
             title: "Sebastian Kollmar",
             description: "Selbstständiger Wirtschaftsinformatiker",
-            addon: "in den Bereichen Software-Entwicklung, Data Science und Statistik"
+            addon: "in den Bereichen Software-Entwicklung, Business Intelligence und Data Science"
         }
     };
 

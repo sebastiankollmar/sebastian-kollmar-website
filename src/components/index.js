@@ -4,3 +4,4 @@ export { default as Header } from "./Header";
 export { default as WhatWeDo } from "./WhatWeDo";
 export { default as Contact } from "./Contact";
 export { default as Coop } from "./Coop";
+export { default as Card } from "./Card";
